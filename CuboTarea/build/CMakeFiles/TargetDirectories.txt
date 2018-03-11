@@ -1,0 +1,3 @@
+/home/rooster17/CuboTarea/build/CMakeFiles/rebuild_cache.dir
+/home/rooster17/CuboTarea/build/CMakeFiles/edit_cache.dir
+/home/rooster17/CuboTarea/build/CMakeFiles/cubo.dir
