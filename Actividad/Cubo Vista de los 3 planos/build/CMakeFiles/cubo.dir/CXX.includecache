@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rooster17/Tareas/CuboTarea/cubo.cpp
+stdio.h
+-
+GL/gl.h
+-
+GL/glut.h
+-
+
