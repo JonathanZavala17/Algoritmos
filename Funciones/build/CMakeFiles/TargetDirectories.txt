@@ -1,0 +1,3 @@
+/home/rooster17/AlgoritmosEjercicios/Practica 21-3/Funciones/build/CMakeFiles/rebuild_cache.dir
+/home/rooster17/AlgoritmosEjercicios/Practica 21-3/Funciones/build/CMakeFiles/edit_cache.dir
+/home/rooster17/AlgoritmosEjercicios/Practica 21-3/Funciones/build/CMakeFiles/cubo.dir
