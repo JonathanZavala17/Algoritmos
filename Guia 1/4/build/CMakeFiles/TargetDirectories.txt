@@ -1,0 +1,3 @@
+/home/rooster17/AlgoritmosEjercicios/Algoritmos Tarea/4/build/CMakeFiles/rebuild_cache.dir
+/home/rooster17/AlgoritmosEjercicios/Algoritmos Tarea/4/build/CMakeFiles/edit_cache.dir
+/home/rooster17/AlgoritmosEjercicios/Algoritmos Tarea/4/build/CMakeFiles/Tarea.dir
